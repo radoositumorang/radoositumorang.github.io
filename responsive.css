@@ -11,6 +11,14 @@
   .heading h2 {
     font-size: 20px;
   }
+
+  .menu-icon{
+    position: relative;
+  }
+  .download{
+    position: relative;
+  }
+
 }
 
 /* Untuk Smartphone */
